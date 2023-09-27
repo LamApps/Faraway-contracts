@@ -2,7 +2,7 @@
 
 This contract source is based on hardhat project.
 
-It is needed to add mnemonic to deploy and test.
+It is needed to set mnemonic at .env file to deploy and test.
 
 ## Available Commands
 
